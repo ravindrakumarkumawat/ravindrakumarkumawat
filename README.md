@@ -10,7 +10,7 @@ I'm a Full-Stack developer who likes to work with JavaScript (React, Vue.js, Mon
 <h3>A passionate developer from India</h3>
 
 <ul>
-<li>🔭 I’m currently working on <strong>Netflix clone with youtube data API </strong> 🤣</li>
+<li>🔭 I’m currently working on <strong><a href="https://github.com/ravindrakumarkumawat/Netflix-clone">Netflix clone</a> with youtube data API </strong> 🤣</li>
 <li>🌱 I’m currently learning about <strong>Software Architecture</strong> 
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ravindrakumarkumawat">Github</a>.</li>
 <li>💬 Ask me about <strong>JavaScript, React and Nodejs</strong></li>

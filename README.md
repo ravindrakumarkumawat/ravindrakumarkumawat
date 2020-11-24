@@ -11,6 +11,7 @@ I'm a Full-Stack developer who likes to work with JavaScript (React, Vue.js, Mon
 
 <ul>
 <li>🔭 I’m currently working on <strong><a href="https://github.com/ravindrakumarkumawat/Netflix-clone">Netflix clone</a> with youtube data API </strong> 🤣</li>
+<li>Netflic clone -> https://zephyr76.herokuapp.com/</li>
 <li>🌱 I’m currently learning about <strong>Software Architecture</strong> 
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ravindrakumarkumawat">Github</a>.</li>
 <li>💬 Ask me about <strong>JavaScript, React and Nodejs</strong></li>
@@ -64,6 +65,7 @@ Quote of the Pandemic:
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every Sunday</b>!</br>Last refresh: Sunday, 27 September, 17:02 CEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every Tuesday</b>!</br>Last refresh: Tuesday, 24 November, 12:52
+CEST<br /></p>
 
 

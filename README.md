@@ -11,7 +11,7 @@ I'm a Full-Stack developer who likes to work with JavaScript (React, Vue.js, Mon
 
 <ul>
 <li>🔭 I’m currently working on <strong><a href="https://github.com/ravindrakumarkumawat/Netflix-clone">Netflix clone</a> with youtube data API </strong> 🤣</li>
-<li>Netflic clone -> https://zephyr76.herokuapp.com/</li>
+<li><b>Netflix clone</b> -> https://zephyr76.herokuapp.com/</li>
 <li>🌱 I’m currently learning about <strong>Software Architecture</strong> 
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ravindrakumarkumawat">Github</a>.</li>
 <li>💬 Ask me about <strong>JavaScript, React and Nodejs</strong></li>

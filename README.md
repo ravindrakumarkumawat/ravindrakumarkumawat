@@ -63,7 +63,7 @@ Quote of the Pandemic:
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every Tuesday</b>!</br>Last refresh: Tuesday, 24 November, 12:52
+<p align="center">This <i>README</i> file is generated <b>every Tuesday</b>!</br>Last refresh: Tuesday, 5 March, 12:52
 CEST<br /></p>
 
 

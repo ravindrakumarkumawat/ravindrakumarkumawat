@@ -10,7 +10,7 @@ I'm a Full-Stack developer who likes to work with JavaScript (React, Vue.js, Mon
 <h3>A passionate developer from India</h3>
 
 <ul>
-<li>🔭 I’m currently working on Swiggy clone 🤣</li>
+<li>🔭 I’m currently working on <a href="https://github.com/ravindrakumarkumawat/swiggy">Swiggy</a> clone 🤣</li>
 <li><b>Netflix clone</b> -> https://zephyr76.herokuapp.com/</li>
 <li>🌱 I’m currently learning about <strong>Software Architecture</strong> 
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ravindrakumarkumawat">Github</a>.</li>

@@ -17,6 +17,11 @@ I'm a Full-Stack developer who likes to work with JavaScript (React, Vue.js, Mon
 <li>💬 Ask me about <strong>JavaScript, React and Nodejs</strong></li>
 </ul>
 
+Last minute coding interview preparation guide:
+<ul>
+<li>https://www.interviewbit.com/blog/last-minute-coding-interview-preparation-guide/</li>
+</ul>
+
 Quote of the Pandemic:
 
 <ul>

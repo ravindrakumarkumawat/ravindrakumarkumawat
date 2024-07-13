@@ -1,7 +1,7 @@
 ## नमस्ते (Namaste), I am [Ravindra Kumawat](https://github.com/ravindrakumarkumawat)
 
 
-I'm a Full-Stack developer who likes to work with JavaScript (React, Redux, Vue.js, Vuex MongoDB, PostgreSQL, Redis, Nodejs, Expressjs,). 
+I'm a Full-Stack developer who likes to work with JavaScript (React, Redux, Vue.js, Vuex MongoDB, PostgreSQL, Redis, Nodejs, Expressjs) and Mobile App development using (Flutter, Dart). 
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
@@ -12,7 +12,7 @@ I'm a Full-Stack developer who likes to work with JavaScript (React, Redux, Vue.
 <h3>A passionate developer from India</h3>
 
 <ul>
-<li>🤣 I'm currently learning Flutter, Dart and building the project which has Twitter like features. Git repo <a href="https://github.com/ravindrakumarkumawat/morningstar" target="blank">morningstar</a>
+<li>🤣 I'm currently learning <b>Flutter, Dart</b> and building the project which has <b>Twitter like features</b>. Git repo <a href="https://github.com/ravindrakumarkumawat/morningstar" target="blank">morningstar</a>
 <li>🔭 Created some api's for the <a href="https://github.com/ravindrakumarkumawat/swiggy">Swiggy</a> clone 🤣</li>
 <li><b>Netflix clone</b> -> https://zephyr76.herokuapp.com/</li>
 <li>🌱 I’m currently learning about <strong>Software Architecture</strong> 

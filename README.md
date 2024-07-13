@@ -1,16 +1,19 @@
 ## नमस्ते (Namaste), I am [Ravindra Kumawat](https://github.com/ravindrakumarkumawat)
 
 
-I'm a Full-Stack developer who likes to work with JavaScript (React, Vue.js, MongoDB, PostgreSQL, Redis, Nodejs, Expressjs,), Python among others. 
+I'm a Full-Stack developer who likes to work with JavaScript (React, Redux, Vue.js, Vuex MongoDB, PostgreSQL, Redis, Nodejs, Expressjs,). 
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 </p>
 
+<p>Leetcode: <a href="https://leetcode.com/u/ravindrakumawat/" target="blank">https://leetcode.com/u/ravindrakumawat/</p>
+  
 <h3>A passionate developer from India</h3>
 
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/ravindrakumarkumawat/swiggy">Swiggy</a> clone 🤣</li>
+<li>🤣 I'm currently learning Flutter, Dart and building the project which has Twitter like features. Git repo <a href="https://github.com/ravindrakumarkumawat/morningstar" target="blank">morningstar</a>
+<li>🔭 Created some api's for the <a href="https://github.com/ravindrakumarkumawat/swiggy">Swiggy</a> clone 🤣</li>
 <li><b>Netflix clone</b> -> https://zephyr76.herokuapp.com/</li>
 <li>🌱 I’m currently learning about <strong>Software Architecture</strong> 
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ravindrakumarkumawat">Github</a>.</li>
@@ -68,7 +71,7 @@ Quote of the Pandemic:
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every Friday</b>!</br>Last refresh: Friday, 5 March, 12:52
+<p align="center">This <i>README</i> file is generated <b>every Friday</b>!</br>Last refresh: Friday, 13 Jul 2024, 12:52
 CEST<br /></p>
 
 

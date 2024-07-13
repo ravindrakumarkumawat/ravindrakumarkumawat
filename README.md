@@ -12,7 +12,7 @@ I'm a Full-Stack developer who likes to work with JavaScript (React, Redux, Vue.
 <h3>A passionate developer from India</h3>
 
 <ul>
-<li>🤣 I'm currently learning <b>Flutter, Dart</b> and building the project which has <b>Twitter like features</b>. Git repo <a href="https://github.com/ravindrakumarkumawat/morningstar" target="blank">morningstar</a>
+<li>🎯 I'm currently learning <b>Flutter, Dart</b> and building the project which has <b>Twitter like features</b>. Git repo <a href="https://github.com/ravindrakumarkumawat/morningstar" target="blank">morningstar</a>
 <li>🔭 Created some api's for the <a href="https://github.com/ravindrakumarkumawat/swiggy">Swiggy</a> clone 🤣</li>
 <li><b>Netflix clone</b> -> https://zephyr76.herokuapp.com/</li>
 <li>🌱 I’m currently learning about <strong>Software Architecture</strong> 
@@ -71,7 +71,7 @@ Quote of the Pandemic:
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every Friday</b>!</br>Last refresh: Friday, 13 Jul 2024, 12:52
+<p align="center">This <i>README</i> file is generated <b>every Friday</b>!</br>Last refresh: Saturday, 13 Jul 2024, 12:52
 CEST<br /></p>
 
 
